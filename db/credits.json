@@ -1,0 +1,469 @@
+[
+  {
+    "artist": "Evolfo",
+    "album": "Last of the Acid Cowboys",
+    "songs": [
+      "Vision of Sin",
+      "Moon Eclipsed the Sun",
+      "Science",
+      "Bloody Bloody Knife",
+      "Don't Give Up Your Mind",
+      "Luv Like a Freak",
+      "Rat City",
+      "Frank the Fiddler",
+      "Last of the Acid Cowboys",
+      "Peachy"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2017,
+    "recordLabel": "Royal Potato Family",
+    "display": true
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "The Changer",
+    "songs": [
+      "Hellow",
+      "The Changer",
+      "Ignored",
+      "Blind Love",
+      "Orion's Belt (Live from Sound Home"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2022,
+    "recordLabel": "Royal Potato Family",
+    "display": true
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "Site Out of Mind",
+    "songs": [
+      "Give Me Time",
+      "Strange Lights",
+      "Zuma Loop",
+      "Blossom In Void",
+      "Drying Out Your Eyes",
+      "In Time, Pt. 1",
+      "In Time, Pt. 2 & 3",
+      "Let Go",
+      "Broken Hills",
+      "Orion's Belt",
+      "White Foam"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2021,
+    "recordLabel": "Royal Potato Family",
+    "display": true
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "The Food of Love",
+    "songs": [
+      "You Light Me Up",
+      "Evolfo Doofeht",
+      "Deep Flop",
+      "Mama Said",
+      "Walk Like a Demon",
+      "Wild Man"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2012,
+    "recordLabel": "",
+    "display": false
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "FHF / Let's Carry On",
+    "songs": ["FHF", "Let's Carry On"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2014,
+    "recordLabel": "",
+    "display": false
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "Benji's Peach Pit / Evolfo Tries Love",
+    "songs": ["Benji's Peach Pit", "Evolfo Tries Love"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2022,
+    "recordLabel": "Palmetto St. Recording Co.",
+    "display": true
+  },
+
+  {
+    "artist": "Evolfo",
+    "album": "Evolfo on Audiotree Live",
+    "songs": [
+      "Give Me Time - Audiotree Live Version",
+      "Blossom In Void - Audiotree Live Version",
+      "Strange Lights - Audiotree Live Version",
+      "Moon Eclipsed the Sun - Audiotree Live Version",
+      "Orion's Belt - Audiotree Live Version"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2022,
+    "recordLabel": "Audiotree Music",
+    "display": true
+  },
+
+  {
+    "artist": "Castle Rat",
+    "album": "Into the Realm",
+    "songs": ["Feed The Dream", "Dagger Dragger"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2022,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Mals Totem",
+    "album": "Mals Totem EP",
+    "songs": [
+      "Strangest Motion",
+      "A Crowd In The Attic",
+      "Jigsaw Falling Into Place",
+      "Mastless",
+      "Gargantuan",
+      "Grind Tune"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2013,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Pronoun",
+    "album": "Pronoun on Audiotree Live",
+    "songs": [
+      "til your legs give up - Audiotree Live Version",
+      "just cuz you can't - Audiotree Live Version",
+      "wrong - Audiotree Live Version",
+      "a million other things - Audiotree Live Version",
+      "run - Audiotree Live Version"
+    ],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2018,
+    "recordLabel": "Audiotree Music",
+    "display": true
+  },
+
+  {
+    "artist": "Pronoun",
+    "album": "I'll Show You Stronger",
+    "songs": ["run", "stay", "wrong", "temporary tantrum"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2019,
+    "recordLabel": "Rhyme & Reason Records",
+    "display": true
+  },
+
+  {
+    "artist": "Pronoun",
+    "album": "OMG I MADE IT",
+    "songs": ["SOUND THE ALARMS!!!1!", "HALF OF THE TIME"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2021,
+    "recordLabel": "Wax Bodega and Sleep Well",
+    "display": true
+  },
+
+  {
+    "artist": "Pronoun",
+    "album": "OMG I MADE IT",
+    "songs": ["SOUND THE ALARMS!!!1!", "HALF OF THE TIME"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2021,
+    "recordLabel": "Wax Bodega and Sleep Well",
+    "display": true
+  },
+
+  {
+    "artist": "Ve.Nika",
+    "album": "Singles",
+    "songs": ["Dangerous Energy", "Here", "Not Your Friend"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2021,
+    "recordLabel": "Niki Morrissette Records",
+    "display": true,
+    "unreleased": "Not Your Friend"
+  },
+
+  {
+    "artist": "Rodes Rollins",
+    "album": "Singles",
+    "songs": ["Intertwined", "Change My Mind"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2022,
+    "recordLabel": "",
+    "display": true,
+    "unreleased": "rest of album"
+  },
+
+  {
+    "artist": "sophiemarie.b",
+    "album": "Singles",
+    "songs": ["Know Your Worth", "Wild", "Bitter", "What I Like"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2021,
+    "recordLabel": "Crowned Records",
+    "display": true
+  },
+
+  {
+    "artist": "Sinkane",
+    "album": "{forthcoming}",
+    "songs": ["tbd"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2023,
+    "recordLabel": "City Slang Records",
+    "display": false
+  },
+
+  {
+    "artist": "Raia Was",
+    "album": "Single",
+    "songs": ["You Are - Live"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2022,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Ve.Nika",
+    "album": "Singles",
+    "songs": ["Dangerous Energy", "Here", "Not Your Friend"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2021,
+    "recordLabel": "Niki Morrissette Records",
+    "display": true,
+    "unreleased": "Not Your Friend"
+  },
+
+  {
+    "artist": "Holy Hand Grenade",
+    "album": "Celebrate Not Separate",
+    "songs": [
+      "This Life",
+      "The Follow Through",
+      "Bumping Into Strangers",
+      "Look",
+      "Celebrate Not Separate",
+      "Summer Joy",
+      "Projections",
+      "Be Easy"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2019,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Holy Hand Grenade",
+    "album": "Single",
+    "songs": ["Yekermo Sew"],
+    "writingCredits": false,
+    "roles": ["bass player", "band member"],
+    "year": 2020,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Holy Hand Grenade",
+    "album": "Single",
+    "songs": ["The Chase"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2021,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Misst",
+    "album": "Misst",
+    "songs": [
+      "A Mountain Without A Peak (1)",
+      "A Mountain Without A Peak (2)",
+      "False Summit",
+      "Coughing Muck",
+      "Wim Hof",
+      "labornygov"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer", "editor", "producer"],
+    "year": 2020,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Charles Fauna",
+    "album": "Renewal",
+    "songs": ["Ciao"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2022,
+    "recordLabel": "Sleep Well",
+    "display": true
+  },
+
+  {
+    "artist": "Charles Fauna",
+    "album": "Single",
+    "songs": ["Rival"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2020,
+    "recordLabel": "Sleep Well",
+    "display": true
+  },
+
+  {
+    "artist": "Hnry Flwr",
+    "album": "Single",
+    "songs": ["Waiting Room"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2020,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Hnry Flwr",
+    "album": "Single",
+    "songs": ["Waiting Room"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2020,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Newcomers Club",
+    "album": "Newcomers Club",
+    "songs": [
+      "Walk For Miles",
+      "Magic Man",
+      "David",
+      "Vehicles Opposing",
+      "Route 2",
+      "Oh Woman",
+      "Down The Road",
+      "No Name",
+      "Settle Down",
+      "Doom Dance",
+      "Emily's Song",
+      "Kindly Wasted"
+    ],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2018,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Real Intentions",
+    "album": "Real Intentions",
+    "songs": ["The Stache", "Floatin' in the Breeze", "Theme for a Voyage"],
+    "writingCredits": true,
+    "roles": ["bass player"],
+    "year": 2021,
+    "recordLabel": "Sounds from the Rooftop",
+    "display": true
+  },
+
+  {
+    "artist": "Ben Pirani",
+    "album": "How Do I Talk to My Brother?",
+    "songs": ["How Do I Talk to My Brother?"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2018,
+    "recordLabel": "Colemine Records",
+    "display": true
+  },
+
+  {
+    "artist": "RevV",
+    "album": "Singles",
+    "songs": ["Terrain", "Moderation"],
+    "writingCredits": true,
+    "roles": ["bass player", "writer"],
+    "year": 2018,
+    "recordLabel": "",
+    "display": true
+  },
+
+  {
+    "artist": "Karl Soro",
+    "album": "Where's West From Here",
+    "songs": ["Where's West From Here"],
+    "writingCredits": false,
+    "roles": ["bass player"],
+    "year": 2022,
+    "recordLabel": "Music That Plays",
+    "display": true
+  },
+
+  {
+    "artist": "Poofy and the Busboys",
+    "album": "The Roselle EP",
+    "songs": [
+      "Victory",
+      "Dipsomania",
+      "Sunshine",
+      "Reservation for Hesitation",
+      "Head Shrink",
+      "Little Buddy"
+    ],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2011,
+    "recordLabel": "",
+    "display": false
+  },
+
+  {
+    "artist": "Poofy and the Busboys",
+    "album": "Single",
+    "songs": ["Bruce Lee"],
+    "writingCredits": true,
+    "roles": ["bass player", "band member", "writer"],
+    "year": 2012,
+    "recordLabel": "",
+    "display": false
+  }
+]
