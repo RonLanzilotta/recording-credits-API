@@ -18,9 +18,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2017,
     "recordLabel": "Royal Potato Family",
-    "display": true
+    "display": true,
+    "img": "https://m.media-amazon.com/images/I/91zJBUCZ5US._AC_SL1500_.jpg",
+    "link": "https://open.spotify.com/album/12yK0awDW8z3K5l96PmYjm?si=Xl8g-5zqR-mrrjm-BF0Teg"
   },
-
   {
     "artist": "Evolfo",
     "album": "The Changer",
@@ -35,9 +36,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2022,
     "recordLabel": "Royal Potato Family",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a2662511363_10.jpg",
+    "link": "https://open.spotify.com/album/0Whpmyub4CUOntzrka5cb9?si=lN3VcOoYQXqUE9ozV8wBKA"
   },
-
   {
     "artist": "Evolfo",
     "album": "Site Out of Mind",
@@ -58,9 +60,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2021,
     "recordLabel": "Royal Potato Family",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a0331662026_10.jpg",
+    "link": "https://open.spotify.com/album/0spFIjxgOLkQS8AZhzgWhw?si=mP5bT52FRCu_bLbcFtZAbA"
   },
-
   {
     "artist": "Evolfo",
     "album": "The Food of Love",
@@ -76,9 +79,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2012,
     "recordLabel": "",
-    "display": false
+    "display": false,
+    "img": "",
+    "link": ""
   },
-
   {
     "artist": "Evolfo",
     "album": "FHF / Let's Carry On",
@@ -87,9 +91,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2014,
     "recordLabel": "",
-    "display": false
+    "display": false,
+    "img": "",
+    "link": ""
   },
-
   {
     "artist": "Evolfo",
     "album": "Benji's Peach Pit / Evolfo Tries Love",
@@ -98,9 +103,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2022,
     "recordLabel": "Palmetto St. Recording Co.",
-    "display": true
+    "display": true,
+    "img": "https://cdn.shopify.com/s/files/1/1496/1360/products/PST003_Mock_A_800x.jpg?v=1648653560",
+    "link": "https://open.spotify.com/album/5ORYKENNdNeVukyn7jGuK4?si=Ov_KgKnYSl6WmQoeYaV7mg"
   },
-
   {
     "artist": "Evolfo",
     "album": "Evolfo on Audiotree Live",
@@ -115,9 +121,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2022,
     "recordLabel": "Audiotree Music",
-    "display": true
+    "display": true,
+    "img": "https://images.squarespace-cdn.com/content/v1/561d7296e4b0e681f07991b8/28549d04-0f22-4f28-ac97-c67648c42d96/Evolfo+on+Audiotree+Live+-+Album+Cover+-+Web.png",
+    "link": "https://open.spotify.com/album/1Rdqc4QkZTImesHQoZNwe7?si=d1aB1b7uQQ26uWsjPK6KMQ"
   },
-
   {
     "artist": "Castle Rat",
     "album": "Into the Realm",
@@ -126,9 +133,12 @@
     "roles": ["bass player", "band member"],
     "year": 2022,
     "recordLabel": "",
-    "display": true
-  },
+    "display": true,
+    "unreleased": ["Dagger Dragger", "Resurrector", "Red Sands", "The Mirror", "Cry For Me", "Realm", "Fresh Fur", "Nightblood"],
+    "img": "https://f4.bcbits.com/img/0029906695_25.jpg",
+    "link": "https://open.spotify.com/track/42gWJ8jAPVFG7FwxHOIQoX?si=914d25c0e1934621"
 
+  },
   {
     "artist": "Mals Totem",
     "album": "Mals Totem EP",
@@ -144,9 +154,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2013,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a1726298066_16.jpg",
+    "link": "https://open.spotify.com/album/1geWfykd4AUbhpJbrUfv54?si=YDLdOF6MSb295X-Z7F0O-g"
   },
-
   {
     "artist": "Pronoun",
     "album": "Pronoun on Audiotree Live",
@@ -161,9 +172,10 @@
     "roles": ["bass player", "band member"],
     "year": 2018,
     "recordLabel": "Audiotree Music",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a1598695376_10.jpg",
+    "link": "https://open.spotify.com/album/6yG0mt1cL8RdQMqGQyZZf4?si=XQh-duxYRQ-lN5AH9cGhCw"
   },
-
   {
     "artist": "Pronoun",
     "album": "I'll Show You Stronger",
@@ -172,9 +184,10 @@
     "roles": ["bass player", "band member"],
     "year": 2019,
     "recordLabel": "Rhyme & Reason Records",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a3807850089_10.jpg",
+    "link": "https://open.spotify.com/album/3fZqYNIujM9DnW0tOqeIPe?si=ih2CZfoSRwerWMLpbEa6ow"
   },
-
   {
     "artist": "Pronoun",
     "album": "OMG I MADE IT",
@@ -183,20 +196,10 @@
     "roles": ["bass player", "band member"],
     "year": 2021,
     "recordLabel": "Wax Bodega and Sleep Well",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a4140886160_10.jpg",
+    "link": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp?si=MiGJSAZcTCKMpwbQkAC9Qw"
   },
-
-  {
-    "artist": "Pronoun",
-    "album": "OMG I MADE IT",
-    "songs": ["SOUND THE ALARMS!!!1!", "HALF OF THE TIME"],
-    "writingCredits": false,
-    "roles": ["bass player", "band member"],
-    "year": 2021,
-    "recordLabel": "Wax Bodega and Sleep Well",
-    "display": true
-  },
-
   {
     "artist": "Ve.Nika",
     "album": "Singles",
@@ -206,9 +209,10 @@
     "year": 2021,
     "recordLabel": "Niki Morrissette Records",
     "display": true,
-    "unreleased": "Not Your Friend"
+    "img": "https://i.scdn.co/image/ab67616d0000b273f83f97985b0dcdea81cb9c75",
+    "link": "https://open.spotify.com/artist/38wIvW2JrMMtAGllNaXFNZ?si=D_CR2HIzRhCo0HpnZ1bMrw",
+    "unreleased": ["Not Your Friend"]
   },
-
   {
     "artist": "Rodes Rollins",
     "album": "Singles",
@@ -218,9 +222,10 @@
     "year": 2022,
     "recordLabel": "",
     "display": true,
-    "unreleased": "rest of album"
+    "img": "https://i.scdn.co/image/ab67616d0000b27349c92a0732d858de7723744b",
+    "link": "https://open.spotify.com/artist/4b8qBVKht5PJn15AgizNv0?si=g5W8NL2VTRSHvaFfvHDsvQ",
+    "unreleased": ["rest of album"]
   },
-
   {
     "artist": "sophiemarie.b",
     "album": "Singles",
@@ -229,9 +234,10 @@
     "roles": ["bass player"],
     "year": 2021,
     "recordLabel": "Crowned Records",
-    "display": true
+    "display": true,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aAsMsE6u9UEkeCPSCE-uclZ-N2mr_KowlD9SCBCwqN9nbU4VY1QDKD2W2vJ4FyARy2A&usqp=CAU",
+    "link": "https://open.spotify.com/artist/5tCYURgTmdP64OCLu5djQG?si=uI9pCqK4QA-VLk_T4UYM4w"
   },
-
   {
     "artist": "Sinkane",
     "album": "{forthcoming}",
@@ -240,9 +246,10 @@
     "roles": ["bass player", "band member"],
     "year": 2023,
     "recordLabel": "City Slang Records",
-    "display": false
+    "display": false,
+    "img": "",
+    "link": ""
   },
-
   {
     "artist": "Raia Was",
     "album": "Single",
@@ -251,21 +258,10 @@
     "roles": ["bass player"],
     "year": 2022,
     "recordLabel": "",
-    "display": true
-  },
-
-  {
-    "artist": "Ve.Nika",
-    "album": "Singles",
-    "songs": ["Dangerous Energy", "Here", "Not Your Friend"],
-    "writingCredits": false,
-    "roles": ["bass player"],
-    "year": 2021,
-    "recordLabel": "Niki Morrissette Records",
     "display": true,
-    "unreleased": "Not Your Friend"
+    "img": "https://i.scdn.co/image/ab67616d00001e02d24f00d0ade901786c3f0c8d",
+    "link": "https://open.spotify.com/track/6d6atH1CcOPFCdk9VMwWHB?si=07abc839570043b5"
   },
-
   {
     "artist": "Holy Hand Grenade",
     "album": "Celebrate Not Separate",
@@ -283,9 +279,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2019,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a3589861997_10.jpg",
+    "link": "https://open.spotify.com/album/5Ui3XhKVRipDYRlbMPC9CM?si=6Tzkm_GRQm6NtMlGfRQF9g"
   },
-
   {
     "artist": "Holy Hand Grenade",
     "album": "Single",
@@ -294,9 +291,10 @@
     "roles": ["bass player", "band member"],
     "year": 2020,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ba15b751020563014845b75",
+    "link": "https://open.spotify.com/album/2j3YZmDEDAc2S9sacIYolM?si=URKrALUGTEC-j4J63jL9-A"
   },
-
   {
     "artist": "Holy Hand Grenade",
     "album": "Single",
@@ -305,9 +303,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2021,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b27364d882b749841a7806da4e59",
+    "link": "https://open.spotify.com/track/35cxWrQIGHtBCa5zw94vN6?si=4edcddac1e444584"
   },
-
   {
     "artist": "Misst",
     "album": "Misst",
@@ -323,9 +322,10 @@
     "roles": ["bass player", "band member", "writer", "editor", "producer"],
     "year": 2020,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a3136241559_10.jpg",
+    "link": "https://misst.bandcamp.com/releases"
   },
-
   {
     "artist": "Charles Fauna",
     "album": "Renewal",
@@ -334,9 +334,10 @@
     "roles": ["bass player"],
     "year": 2022,
     "recordLabel": "Sleep Well",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b2730316d431e07132a92f234236",
+    "link": "https://open.spotify.com/album/2PeS6FuRkGmIwMY1AnMSMy?si=Rjqi_ls0ST-yldOSHZrs0A"
   },
-
   {
     "artist": "Charles Fauna",
     "album": "Single",
@@ -345,9 +346,10 @@
     "roles": ["bass player"],
     "year": 2020,
     "recordLabel": "Sleep Well",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b2730d32086e2e9ca167463f1783",
+    "link": "https://open.spotify.com/track/4BRjHfZVelro9RNIX8uhwv?si=45e6810058334f3b"
   },
-
   {
     "artist": "Hnry Flwr",
     "album": "Single",
@@ -356,20 +358,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2020,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b273f8914c5d21ef2aa2bfbb7a78",
+    "link": "https://open.spotify.com/track/1MvaKbZ3z42mGrAlKibpcq?si=a30d3b95f36e48bb"
   },
-
-  {
-    "artist": "Hnry Flwr",
-    "album": "Single",
-    "songs": ["Waiting Room"],
-    "writingCredits": true,
-    "roles": ["bass player", "band member", "writer"],
-    "year": 2020,
-    "recordLabel": "",
-    "display": true
-  },
-
   {
     "artist": "Newcomers Club",
     "album": "Newcomers Club",
@@ -391,9 +383,10 @@
     "roles": ["bass player"],
     "year": 2018,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a2383612042_10.jpg",
+    "link": "https://open.spotify.com/album/45C6Cj84DBg1UOTVNe1o4o?si=8lDQLXFRSj2BhPpw2cDh3Q"
   },
-
   {
     "artist": "Real Intentions",
     "album": "Real Intentions",
@@ -402,9 +395,10 @@
     "roles": ["bass player"],
     "year": 2021,
     "recordLabel": "Sounds from the Rooftop",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d00001e0284c313e8f22b231cccb2998c",
+    "link": "https://open.spotify.com/album/08QqCKMvqn1UzKNQhEkdNN?si=l_scEM0KSj2gPVqq8Baj2w"
   },
-
   {
     "artist": "Ben Pirani",
     "album": "How Do I Talk to My Brother?",
@@ -413,9 +407,10 @@
     "roles": ["bass player"],
     "year": 2018,
     "recordLabel": "Colemine Records",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a1347538623_10.jpg",
+    "link": "https://open.spotify.com/track/6bmb9YE8NDshCBUtwz6bmM?si=3bc647b681a04beb"
   },
-
   {
     "artist": "RevV",
     "album": "Singles",
@@ -424,9 +419,10 @@
     "roles": ["bass player", "writer"],
     "year": 2018,
     "recordLabel": "",
-    "display": true
+    "display": true,
+    "img": "https://i.scdn.co/image/ab67616d0000b273145979a0e255620f9c57f0d3",
+    "link": "https://open.spotify.com/album/497ch765becC78PbvP9ft8?si=U98cfxxDTaGyETeYEj107A"
   },
-
   {
     "artist": "Karl Soro",
     "album": "Where's West From Here",
@@ -435,9 +431,10 @@
     "roles": ["bass player"],
     "year": 2022,
     "recordLabel": "Music That Plays",
-    "display": true
+    "display": true,
+    "img": "https://f4.bcbits.com/img/a2882969526_16.jpg",
+    "link": "https://open.spotify.com/track/0LRcFg8Wh9SDqvNKpkokjK?si=366b97cd20894d94"
   },
-
   {
     "artist": "Poofy and the Busboys",
     "album": "The Roselle EP",
@@ -453,9 +450,10 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2011,
     "recordLabel": "",
-    "display": false
+    "display": false,
+    "img": "",
+    "link": ""
   },
-
   {
     "artist": "Poofy and the Busboys",
     "album": "Single",
@@ -464,6 +462,8 @@
     "roles": ["bass player", "band member", "writer"],
     "year": 2012,
     "recordLabel": "",
-    "display": false
+    "display": false,
+    "img": "",
+    "link": ""
   }
 ]
