@@ -1,8 +1,7 @@
 import mongoose from 'mongoose'
 
-// console.log(mongoose)
 let mongooseConnectionConfig = { useNewUrlParser: true, useUnifiedTopology: true }
-mongoose.connect('mongodb://localhost:27017/recording-credits', mongooseConnectionConfig)
+mongoose.connect('mongodb+srv://rLanz1010:abc123@cluster0.azsqvgf.mongodb.net/?retryWrites=true&w=majority', mongooseConnectionConfig)
 
 mongoose.set('strictQuery', true);
 
