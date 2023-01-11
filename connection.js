@@ -1,12 +1,23 @@
-import mongoose from 'mongoose'
+import mongoose from "mongoose";
 
-let mongooseConnectionConfig = { useNewUrlParser: true, useUnifiedTopology: true }
-mongoose.connect('mongodb+srv://rLanz1010:abc123@cluster0.azsqvgf.mongodb.net/?retryWrites=true&w=majority', mongooseConnectionConfig)
+let mongooseConnectionConfig = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+};
 
-mongoose.set('strictQuery', true);
+let url =
+  process.env.MONGO_URL || "mongodb://127.0.0.1:27017/recording-credits";
 
-mongoose.connection.on('connected', ()=> console.log("Connected to database"))
-mongoose.connection.on('disconnected', ()=> console.log("Disconnected from database"))
-mongoose.connection.on('error', error=> console.error("Database error", error))
+mongoose.connect(url, mongooseConnectionConfig);
 
-export default mongoose.connection
+mongoose.set("strictQuery", true);
+
+mongoose.connection.on("connected", () => console.log("Connected to database"));
+mongoose.connection.on("disconnected", () =>
+  console.log("Disconnected from database")
+);
+mongoose.connection.on("error", (error) =>
+  console.error("Database error", error)
+);
+
+export default mongoose.connection;
