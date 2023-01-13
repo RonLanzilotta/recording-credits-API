@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RonLanzilotta/recording-credits-API#readme",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongoose": "^6.8.3",
     "node-fetch": "^3.3.0"

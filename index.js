@@ -1,8 +1,11 @@
 import express from "express";
 import db from "./connection.js";
+import cors from "cors";
 import credits from "./db/credits.json" assert { type: "json" };
 
 const app = express();
+
+app.use(cors());
 
 const PORT = process.env.PORT || 3000;
 
